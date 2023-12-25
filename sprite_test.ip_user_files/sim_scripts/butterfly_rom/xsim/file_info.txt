@@ -1,0 +1,2 @@
+butterfly_rom.v,verilog,xil_defaultlib,../../../../sprite_test.gen/sources_1/ip/butterfly_rom/sim/butterfly_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

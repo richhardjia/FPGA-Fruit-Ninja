@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../sprite_test.gen/sources_1/ip/apple_rom/sim/apple_rom.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
