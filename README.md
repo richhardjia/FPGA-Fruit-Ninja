@@ -1,5 +1,9 @@
 Created by Justin Wu and Richard Jia 
 
+Link to demonstration: https://youtu.be/0MiAxoh1yhc
+
+Link to full report: https://docs.google.com/document/d/1Uqydx1-v6Rfvam1qCLS_sOkhnXpSjIBJADf58wqcG7o/edit?usp=sharing
+
 For our this project, we upgraded a previouos lab design to a fully functioning fruit ninja game, with user inputs controlled by a mouse. Most of the modification done was color mapper in determining what specific color of bits to output, in addition to modifying the ball module. 
 
 Our overarching goal for the project was to create a basic version of fruit ninja. In the full version of the game, the player “slices” fruits by swiping their fingers across a touch screen. To adapt the game to a FPGA, we chose to use a mouse to act as the user input, and have the action of the user cursor clicking on a fruit to signify a user “slicing” a fruit. We also added other core features to the game, such as scorekeeping, advanced graphics, and physics for the fruits. 
